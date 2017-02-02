@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(){$(".flyers").slick({dots:!0,speed:300,slidesToShow:1,slidesToScroll:1,arrows:!0})}),$(document).ready(function(){$(".swipebox").swipebox(),$("#gallery").click(function(e){e.preventDefault(),$.swipebox([{href:"images/1.png",title:"My Caption"},{href:"images/2.png",title:"My Second Caption"}])})});
