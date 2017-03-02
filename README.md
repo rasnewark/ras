@@ -1,1 +1,1 @@
-# Rutgers Accounting Society Newark New Jersey, RAS
+# Rutgers Accounting Society, Newark, New Jersey, RAS
